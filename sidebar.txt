@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nch:home|Door43 (nch)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nch|d43-nch repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nch/archive/master.zip|d43-nch.zip]]
+
+**Recent Changes**
+{{changes>ns = nch}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nch|Ethnologue data]]
+
